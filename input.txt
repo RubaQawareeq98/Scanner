@@ -1,0 +1,31 @@
+1.
+##Hi## ruba
+## Compiler
+    program add (x,y) {
+   ## /* Hello */ ##
+    return x + y;
+}
+PRograM
+"Hello"
+3.89
+-10
+A_Funny33COMP2023dentifie
+A:= A - 1.5 +3
+8- 9
+-888
+2+ 3
+-9.6
+5+
+#jhkh kjhkgk
+1.5
+89klj
+#.
+$sdb
+hiiiii
+0.
+
+
+
+-9
+5-4
+8+9-3
